@@ -15,8 +15,7 @@
 }
 
 body {
-    background-image: url(/convite-G/scr/imagens/Backgroud.png);
-    height: 100%;
+    background-color: var(--cor4);
     }
 
 main{
