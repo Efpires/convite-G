@@ -22,7 +22,7 @@ body {
 main{
     
     background-image: url(/scr/imagens/Backgroud.png);
-    max-height: 1000px
+    max-height: 1000px;
     min-width: 300px;
     max-width: 600px;
     margin: 0 auto;
@@ -114,9 +114,7 @@ p {
     padding: 10px;
     margin: 0px 0 0 37px;
     }
-    h1 {
-        /* font-size: 24px; */
-    }
+    
     p {
         font-size: 18px;
     }
